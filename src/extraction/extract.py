@@ -7,6 +7,7 @@ def extract_data():
     print("Data extracted:", data)
     return data
 #added a dev comment
+#added b test comment
 
 if __name__ == "__main__":
     extract_data()
